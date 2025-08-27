@@ -1,0 +1,18 @@
+{
+  "id": "conv_20250410_012754",
+  "timestamp": "2025-04-10T01:28:45.717740",
+  "notes": "Conversation ended by user",
+  "current_image": "ord2.png",
+  "history": [
+    {
+      "type": "HumanMessage",
+      "content": "analyze ord2",
+      "timestamp": "2025-04-10T01:28:45.717740"
+    },
+    {
+      "type": "AIMessage",
+      "content": "The image \"ord2.png\" is a medical document from a laboratory, specifically a request for laboratory tests. Here are the key details:\n\n- **Laboratory Name**: LABORATOIRE DE BIOLOGIE MÉDICALE\n- **Location**: Hennebont, France (6, place Maréchal Foch, 56700 HENNEBONT)\n- **Contact Number**: Tél: 02 97 36 13 18\n- **Date of Document**: January 1, 2012\n- **Recipient**: Madame DUPONT Marie, born on October 24, 1950\n- **Tests Requested**:\n  - NFS (Complete Blood Count)\n  - CRP (C-reactive Protein Test)\n  - Glycémie (Blood Glucose Test)\n  - Cholestérol (Cholesterol Test)\n- **Signature**: Abbreviated as \"BB,\" likely the medical professional who issued the request.\n\nThe document is formatted with a plain white background, includes a stylized logo of the laboratory, and features a simple layout.",
+      "timestamp": "2025-04-10T01:28:45.717740"
+    }
+  ]
+}

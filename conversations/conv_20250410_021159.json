@@ -1,0 +1,18 @@
+{
+  "id": "conv_20250410_021159",
+  "timestamp": "2025-04-10T02:20:49.589164",
+  "notes": "Conversation ended by user",
+  "current_image": "ord2.png",
+  "history": [
+    {
+      "type": "HumanMessage",
+      "content": "analyze ord2",
+      "timestamp": "2025-04-10T02:20:49.589164"
+    },
+    {
+      "type": "AIMessage",
+      "content": "The image \"ord2.png\" is a medical laboratory document titled \"LABORATOIRE DE BIOLOGIE MÉDICALE.\" Here are the key details:\n\n- **Laboratory Information**: \n  - Name: LABORATOIRE DE BIOLOGIE MÉDICALE\n  - Address: 6, place Maréchal, 56700 HENNEBONT\n  - Contact Number: Tél : 02 97 36 13 18\n\n- **Document Details**: \n  - Reference Number: 56 XX XXXX 6 (partially obscured)\n  - Date Issued: January 1, 2012\n\n- **Patient Information**: \n  - Patient: Madame DUPONT Marie\n  - Birth Date: October 24, 1950\n\n- **Medical Tests Requested**: \n  - NFS (Complete Blood Count)\n  - CRP (C-reactive protein)\n  - Glycémie (Blood sugar)\n  - Cholestérol (Cholesterol)\n\n- **Signature**: \n  - The document includes a handwritten signature, likely \"B.B.,\" of the issuing person.\n\nThis document serves as a request form for specific blood tests for the patient. If you need further analysis or have specific questions about this document, feel free to ask!",
+      "timestamp": "2025-04-10T02:20:49.589164"
+    }
+  ]
+}

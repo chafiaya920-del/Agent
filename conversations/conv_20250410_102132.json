@@ -1,0 +1,18 @@
+{
+  "id": "conv_20250410_102132",
+  "timestamp": "2025-04-10T10:24:57.929048",
+  "notes": "Conversation terminée par l'utilisateur",
+  "current_image": "ord2.png",
+  "history": [
+    {
+      "type": "HumanMessage",
+      "content": "analyze ord2",
+      "timestamp": "2025-04-10T10:24:57.929048"
+    },
+    {
+      "type": "AIMessage",
+      "content": "L'image que j'ai analysée représente un document officiel d'un laboratoire de biologie médicale. Voici un résumé de son contenu :\n\n1. **En-tête** : Le titre \"LABORATOIRE DE BIOLOGIE MÉDICALE\" et les coordonnées (adresse et numéro de téléphone).\n2. **Date et lieu** : Document daté du 01/01/2012, rédigé à HENNEBONT.\n3. **Identification du patient** : Madame DUPONT Marie, née le 24/10/1950.\n4. **Instructions** : Liste de tests médicaux à réaliser, tels que NFS, CRP, Glycémie et Cholestérol.\n5. **Signature** : Signature d'un professionnel de santé avec les initiales \"BB\".\n6. **Esthétique** : Document simple, en noir et blanc, clair et facile à lire.\n\nSi vous avez d'autres questions ou si vous souhaitez une analyse plus approfondie, n'hésitez pas à demander !",
+      "timestamp": "2025-04-10T10:24:57.929048"
+    }
+  ]
+}

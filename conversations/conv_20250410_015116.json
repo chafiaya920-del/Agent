@@ -1,0 +1,18 @@
+{
+  "id": "conv_20250410_015116",
+  "timestamp": "2025-04-10T01:51:20.857497",
+  "notes": "Conversation ended by user",
+  "current_image": null,
+  "history": [
+    {
+      "type": "HumanMessage",
+      "content": "exist",
+      "timestamp": "2025-04-10T01:51:20.857497"
+    },
+    {
+      "type": "AIMessage",
+      "content": "L'image disponible est : **ord2.png**. Que souhaitez-vous savoir à son sujet ?",
+      "timestamp": "2025-04-10T01:51:20.857497"
+    }
+  ]
+}

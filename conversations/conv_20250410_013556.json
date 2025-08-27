@@ -1,0 +1,18 @@
+{
+  "id": "conv_20250410_013556",
+  "timestamp": "2025-04-10T01:43:24.957767",
+  "notes": "Conversation ended by user",
+  "current_image": "ord2.png",
+  "history": [
+    {
+      "type": "HumanMessage",
+      "content": "analyze ord2",
+      "timestamp": "2025-04-10T01:43:24.957767"
+    },
+    {
+      "type": "AIMessage",
+      "content": "L'image est un document médical d'un laboratoire, spécifiquement d'un laboratoire de biologie médicale. Elle a un format formel avec un en-tête incluant le nom du laboratoire, \"LABORATOIRE DE BIOLOGIE MÉDICALE,\" ainsi que des informations de contact telles que l'adresse à Hennebont, France, et un numéro de téléphone.\n\nLe document est daté du \"01/01/2012,\" indiquant quand il a été émis. Il est adressé à \"Madame DUPONT Marie,\" avec sa date de naissance notée comme \"Née le 24/10/1950.\"\n\nLe corps principal du document contient une liste de tests ou d'analyses à réaliser, indiquée par des points. Ces tests sont :\n- NFS (Numération Formule Sanguine)\n- CRP (test de la protéine C-réactive)\n- Glycémie (taux de glucose dans le sang)\n- Cholestérol (taux de cholestérol)\n\nEn bas du document, il y a une signature manuscrite qui semble provenir d'un professionnel de santé, probablement du médecin ou du technicien de laboratoire responsable de la demande, indiquée par les initiales \"BB.\"\n\nDans l'ensemble, le document transmet une demande de tests médicaux spécifiques pour la patiente nommée Marie Dupont, et il a une apparence propre et professionnelle typique de la correspondance médicale.",
+      "timestamp": "2025-04-10T01:43:24.957767"
+    }
+  ]
+}

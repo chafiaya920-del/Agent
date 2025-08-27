@@ -1,0 +1,432 @@
+2025-04-11 18:35:21,244 - __main__ - CRITICAL - Fatal error: Missing required environment variables: AZURE_OPENAI_CHAT_DEPLOYMENT, AZURE_OPENAI_EMBEDDING_DEPLOYMENT
+2025-04-11 18:36:25,690 - __main__ - CRITICAL - Fatal error: Missing required environment variables: AZURE_OPENAI_EMBEDDING_DEPLOYMENT
+2025-04-11 18:37:07,961 - __main__ - INFO - Azure configuration validated successfully
+2025-04-11 18:37:10,244 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-04-11 18:37:11,004 - __main__ - CRITICAL - Fatal error: Could not import duckduckgo-search python package. Please install it with `pip install -U duckduckgo-search`.
+2025-04-11 18:37:45,231 - __main__ - INFO - Azure configuration validated successfully
+2025-04-11 18:37:47,312 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-04-11 18:37:47,692 - __main__ - INFO - MCP Agent initialized successfully
+2025-04-11 18:38:40,674 - primp - INFO - response: https://html.duckduckgo.com/html 200
+2025-04-11 18:38:41,304 - httpx - INFO - HTTP Request: POST https://leafgenaistudio.openai.azure.com/openai/deployments/gpt-4o-mini/embeddings?api-version=2024-02-01 "HTTP/1.1 400 Bad Request"
+2025-04-11 18:38:41,308 - __main__ - ERROR - RAG query failed: Error code: 400 - {'error': {'code': 'OperationNotSupported', 'message': 'The embeddings operation does not work with the specified model, gpt-4o-mini. Please choose different model and try again. You can learn more about which models can be used with each operation here: https://go.microsoft.com/fwlink/?linkid=2197993.'}}
+2025-04-11 18:39:01,448 - primp - INFO - response: https://html.duckduckgo.com/html 200
+2025-04-11 18:39:01,577 - httpx - INFO - HTTP Request: POST https://leafgenaistudio.openai.azure.com/openai/deployments/gpt-4o-mini/embeddings?api-version=2024-02-01 "HTTP/1.1 400 Bad Request"
+2025-04-11 18:39:01,578 - __main__ - ERROR - RAG query failed: Error code: 400 - {'error': {'code': 'OperationNotSupported', 'message': 'The embeddings operation does not work with the specified model, gpt-4o-mini. Please choose different model and try again. You can learn more about which models can be used with each operation here: https://go.microsoft.com/fwlink/?linkid=2197993.'}}
+2025-04-11 18:39:19,742 - __main__ - INFO - Azure configuration validated successfully
+2025-04-11 18:39:21,808 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-04-11 18:39:22,076 - __main__ - INFO - MCP Agent initialized successfully
+2025-04-11 18:39:43,393 - primp - INFO - response: https://html.duckduckgo.com/html 200
+2025-04-11 18:39:43,724 - httpx - INFO - HTTP Request: POST https://leafgenaistudio.openai.azure.com/openai/deployments/gpt-4o-mini/embeddings?api-version=2024-02-01 "HTTP/1.1 400 Bad Request"
+2025-04-11 18:39:43,725 - __main__ - ERROR - RAG query failed: Error code: 400 - {'error': {'code': 'OperationNotSupported', 'message': 'The embeddings operation does not work with the specified model, gpt-4o-mini. Please choose different model and try again. You can learn more about which models can be used with each operation here: https://go.microsoft.com/fwlink/?linkid=2197993.'}}
+2025-04-11 18:40:52,366 - __main__ - INFO - Azure configuration validated successfully
+2025-04-11 18:40:54,364 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-04-11 18:40:54,616 - __main__ - INFO - MCP Agent initialized successfully
+2025-04-11 18:41:04,444 - primp - INFO - response: https://html.duckduckgo.com/html 200
+2025-04-11 18:41:04,771 - httpx - INFO - HTTP Request: POST https://leafgenaistudio.openai.azure.com/openai/deployments/gpt-4o-mini/embeddings?api-version=2024-02-01 "HTTP/1.1 400 Bad Request"
+2025-04-11 18:41:04,773 - __main__ - ERROR - RAG query failed: Error code: 400 - {'error': {'code': 'OperationNotSupported', 'message': 'The embeddings operation does not work with the specified model, gpt-4o-mini. Please choose different model and try again. You can learn more about which models can be used with each operation here: https://go.microsoft.com/fwlink/?linkid=2197993.'}}
+2025-04-11 21:55:11,811 - primp - INFO - response: https://html.duckduckgo.com/html 200
+2025-04-11 21:55:12,233 - httpx - INFO - HTTP Request: POST https://leafgenaistudio.openai.azure.com/openai/deployments/gpt-4o-mini/embeddings?api-version=2024-02-01 "HTTP/1.1 400 Bad Request"
+2025-04-11 21:55:12,237 - __main__ - ERROR - RAG query failed: Error code: 400 - {'error': {'code': 'OperationNotSupported', 'message': 'The embeddings operation does not work with the specified model, gpt-4o-mini. Please choose different model and try again. You can learn more about which models can be used with each operation here: https://go.microsoft.com/fwlink/?linkid=2197993.'}}
+2025-04-11 21:56:21,108 - __main__ - INFO - Scraping 2 URLs
+2025-04-11 21:56:21,779 - __main__ - INFO - Storing 44 document chunks
+2025-04-11 21:56:21,989 - httpx - INFO - HTTP Request: POST https://leafgenaistudio.openai.azure.com/openai/deployments/gpt-4o-mini/embeddings?api-version=2024-02-01 "HTTP/1.1 400 Bad Request"
+2025-04-11 21:56:21,992 - __main__ - ERROR - Scraping failed: Error code: 400 - {'error': {'code': 'OperationNotSupported', 'message': 'The embeddings operation does not work with the specified model, gpt-4o-mini. Please choose different model and try again. You can learn more about which models can be used with each operation here: https://go.microsoft.com/fwlink/?linkid=2197993.'}}
+2025-04-11 21:56:21,996 - __main__ - CRITICAL - Fatal error: 'result'
+2025-04-11 22:28:22,588 - __main__ - INFO - Azure configuration validated successfully
+2025-04-11 22:28:26,201 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-04-11 22:28:27,436 - __main__ - INFO - MCP Agent initialized successfully
+2025-04-11 22:28:59,404 - __main__ - INFO - Scraping 1 URLs
+2025-04-11 22:28:59,750 - __main__ - INFO - Storing 3 document chunks
+2025-04-11 22:29:00,453 - httpx - INFO - HTTP Request: POST https://leafgenaistudio.openai.azure.com/openai/deployments/gpt-4o-mini/embeddings?api-version=2024-02-01 "HTTP/1.1 400 Bad Request"
+2025-04-11 22:29:00,454 - __main__ - ERROR - Scraping failed: Error code: 400 - {'error': {'code': 'OperationNotSupported', 'message': 'The embeddings operation does not work with the specified model, gpt-4o-mini. Please choose different model and try again. You can learn more about which models can be used with each operation here: https://go.microsoft.com/fwlink/?linkid=2197993.'}}
+2025-04-11 22:29:00,454 - __main__ - CRITICAL - Fatal error: 'result'
+2025-04-11 22:32:06,045 - __main__ - INFO - Azure configuration validated successfully
+2025-04-11 22:32:08,632 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-04-11 22:32:09,021 - __main__ - INFO - MCP Agent initialized successfully
+2025-04-11 22:32:21,739 - __main__ - INFO - Scraping 2 URLs
+2025-04-11 22:32:22,321 - __main__ - INFO - Storing 44 document chunks
+2025-04-11 22:32:22,714 - httpx - INFO - HTTP Request: POST https://leafgenaistudio.openai.azure.com/openai/deployments/gpt-4o-mini/embeddings?api-version=2024-02-01 "HTTP/1.1 400 Bad Request"
+2025-04-11 22:32:22,720 - __main__ - ERROR - Scraping failed: Error code: 400 - {'error': {'code': 'OperationNotSupported', 'message': 'The embeddings operation does not work with the specified model, gpt-4o-mini. Please choose different model and try again. You can learn more about which models can be used with each operation here: https://go.microsoft.com/fwlink/?linkid=2197993.'}}
+2025-04-11 22:32:22,725 - __main__ - CRITICAL - Fatal error: 'result'
+2025-04-11 22:38:42,446 - __main__ - INFO - Azure configuration validated successfully
+2025-04-11 22:38:44,765 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-04-11 22:38:45,059 - __main__ - INFO - MCP Agent initialized successfully
+2025-04-11 22:39:05,435 - __main__ - INFO - Scraping 1 URLs
+2025-04-11 22:39:05,773 - __main__ - INFO - Storing 3 document chunks
+2025-04-11 22:39:06,276 - httpx - INFO - HTTP Request: POST https://leafgenaistudio.openai.azure.com/openai/deployments/text-embedding-ada-002/embeddings?api-version=2024-12-01-preview "HTTP/1.1 404 DeploymentNotFound"
+2025-04-11 22:39:06,281 - __main__ - ERROR - Scraping failed: Error code: 404 - {'error': {'code': 'DeploymentNotFound', 'message': 'The API deployment for this resource does not exist. If you created the deployment within the last 5 minutes, please wait a moment and try again.'}}
+2025-04-11 22:39:06,284 - __main__ - CRITICAL - Fatal error: 'result'
+2025-04-11 22:42:03,580 - __main__ - INFO - Azure configuration validated successfully
+2025-04-11 22:42:04,492 - __main__ - CRITICAL - Fatal error: 'AzureConfig' object has no attribute 'embedding_deployment'
+2025-04-11 22:44:42,578 - __main__ - INFO - Azure configuration validated successfully
+2025-04-11 22:44:43,682 - __main__ - CRITICAL - Fatal error: 'AzureConfig' object has no attribute 'embedding_deployment'
+2025-04-11 22:45:33,762 - __main__ - INFO - Azure configuration validated successfully
+2025-04-11 22:45:36,133 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-04-11 22:45:36,896 - __main__ - INFO - MCP Agent initialized successfully
+2025-04-11 22:45:55,696 - __main__ - INFO - Scraping 2 URLs
+2025-04-11 22:45:56,371 - __main__ - INFO - Storing 44 document chunks
+2025-04-11 22:45:56,863 - httpx - INFO - HTTP Request: POST https://leafgenaistudio.openai.azure.com/openai/deployments/text-embedding-ada-002/embeddings?api-version=2024-12-01-preview "HTTP/1.1 404 DeploymentNotFound"
+2025-04-11 22:45:56,866 - __main__ - ERROR - Scraping failed: Error code: 404 - {'error': {'code': 'DeploymentNotFound', 'message': 'The API deployment for this resource does not exist. If you created the deployment within the last 5 minutes, please wait a moment and try again.'}}
+2025-04-11 22:45:56,870 - __main__ - CRITICAL - Fatal error: 'result'
+2025-04-11 22:51:45,461 - __main__ - CRITICAL - Fatal error: 'AzureConfig' object has no attribute 'chat_deployment'
+2025-04-11 22:52:02,618 - __main__ - CRITICAL - Fatal error: 'AzureConfig' object has no attribute 'chat_deployment'
+2025-04-11 22:58:51,802 - __main__ - CRITICAL - Fatal error: 'AzureConfig' object has no attribute 'chat_deployment'
+2025-04-11 23:01:30,191 - __main__ - CRITICAL - Fatal error: 'AzureConfig' object has no attribute 'chat_deployment'
+2025-04-11 23:02:23,206 - __main__ - CRITICAL - Fatal error: 'AzureConfig' object has no attribute 'chat_deployment'
+2025-04-11 23:03:22,459 - __main__ - CRITICAL - Fatal error: 'AzureConfig' object has no attribute 'chat_deployment'
+2025-04-11 23:03:36,658 - __main__ - CRITICAL - Fatal error: 'AzureConfig' object has no attribute 'chat_deployment'
+2025-04-11 23:04:08,598 - __main__ - CRITICAL - Fatal error: 'AzureConfig' object has no attribute 'chat_deployment'
+2025-04-11 23:04:33,523 - __main__ - CRITICAL - Fatal error: 'AzureConfig' object has no attribute 'chat_deployment'
+2025-04-11 23:04:43,401 - __main__ - CRITICAL - Fatal error: 'AzureConfig' object has no attribute 'chat_deployment'
+2025-04-11 23:05:03,631 - __main__ - CRITICAL - Fatal error: 'AzureConfig' object has no attribute 'chat_deployment'
+2025-04-11 23:06:36,993 - __main__ - CRITICAL - Fatal error: 'AzureConfig' object has no attribute 'chat_deployment'
+2025-04-11 23:08:42,676 - __main__ - CRITICAL - Fatal error: 'AzureConfig' object has no attribute 'chat_deployment'
+2025-04-11 23:10:35,846 - __main__ - CRITICAL - Fatal error: 'AzureConfig' object has no attribute 'chat_deployment'
+2025-04-11 23:15:50,824 - __main__ - CRITICAL - Fatal error: Missing required environment variables: AZURE_OPENAI_EMBEDDING_DEPLOYMENT_NAME
+2025-04-11 23:20:34,430 - __main__ - INFO - Azure configuration validated successfully
+2025-04-11 23:20:36,918 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-04-11 23:20:37,714 - __main__ - INFO - MCP Agent initialized successfully
+2025-04-11 23:20:57,415 - __main__ - INFO - Scraping 1 URLs
+2025-04-11 23:20:57,748 - __main__ - INFO - Storing 3 document chunks
+2025-04-11 23:20:58,306 - httpx - INFO - HTTP Request: POST https://leafgenaistudio.openai.azure.com/openai/deployments/text-embedding-ada-002/embeddings?api-version=2024-12-01-preview "HTTP/1.1 404 DeploymentNotFound"
+2025-04-11 23:20:58,310 - __main__ - ERROR - Scraping failed: Error code: 404 - {'error': {'code': 'DeploymentNotFound', 'message': 'The API deployment for this resource does not exist. If you created the deployment within the last 5 minutes, please wait a moment and try again.'}}
+2025-04-11 23:20:58,313 - __main__ - CRITICAL - Fatal error: 'result'
+2025-04-11 23:27:09,509 - __main__ - ERROR - Failed to initialize vector store: 'dict' object has no attribute 'persist_directory'
+2025-04-11 23:27:09,511 - __main__ - CRITICAL - Failed to initialize MCP Agent: Could not initialize vector database.
+2025-04-11 23:27:09,511 - __main__ - CRITICAL - Fatal error: Could not initialize vector database.
+2025-04-11 23:31:50,941 - __main__ - ERROR - Failed to initialize vector store: [91mYou are using a deprecated configuration of Chroma.
+
+[94mIf you do not have data you wish to migrate, you only need to change how you construct
+your Chroma client. Please see the "New Clients" section of https://docs.trychroma.com/deployment/migration.
+________________________________________________________________________________________________
+
+If you do have data you wish to migrate, we have a migration tool you can use in order to
+migrate your data to the new Chroma architecture.
+Please `pip install chroma-migrate` and run `chroma-migrate` to migrate your data and then
+change how you construct your Chroma client.
+
+See https://docs.trychroma.com/deployment/migration for more information or join our discord at https://discord.gg/MMeYNTmh3x for help![0m
+2025-04-11 23:31:50,946 - __main__ - CRITICAL - Failed to initialize MCP Agent: Could not initialize vector database. Please check your ChromaDB installation.
+2025-04-11 23:31:50,947 - __main__ - CRITICAL - Fatal error: Could not initialize vector database. Please check your ChromaDB installation.
+2025-04-11 23:32:37,030 - __main__ - ERROR - Failed to initialize vector store: [91mYou are using a deprecated configuration of Chroma.
+
+[94mIf you do not have data you wish to migrate, you only need to change how you construct
+your Chroma client. Please see the "New Clients" section of https://docs.trychroma.com/deployment/migration.
+________________________________________________________________________________________________
+
+If you do have data you wish to migrate, we have a migration tool you can use in order to
+migrate your data to the new Chroma architecture.
+Please `pip install chroma-migrate` and run `chroma-migrate` to migrate your data and then
+change how you construct your Chroma client.
+
+See https://docs.trychroma.com/deployment/migration for more information or join our discord at https://discord.gg/MMeYNTmh3x for help![0m
+2025-04-11 23:32:37,030 - __main__ - CRITICAL - Failed to initialize MCP Agent: Could not initialize vector database. Please check your ChromaDB installation.
+2025-04-11 23:32:37,031 - __main__ - CRITICAL - Fatal error: Could not initialize vector database. Please check your ChromaDB installation.
+2025-04-11 23:32:51,544 - __main__ - ERROR - Failed to initialize vector store: [91mYou are using a deprecated configuration of Chroma.
+
+[94mIf you do not have data you wish to migrate, you only need to change how you construct
+your Chroma client. Please see the "New Clients" section of https://docs.trychroma.com/deployment/migration.
+________________________________________________________________________________________________
+
+If you do have data you wish to migrate, we have a migration tool you can use in order to
+migrate your data to the new Chroma architecture.
+Please `pip install chroma-migrate` and run `chroma-migrate` to migrate your data and then
+change how you construct your Chroma client.
+
+See https://docs.trychroma.com/deployment/migration for more information or join our discord at https://discord.gg/MMeYNTmh3x for help![0m
+2025-04-11 23:32:51,545 - __main__ - CRITICAL - Failed to initialize MCP Agent: Could not initialize vector database. Please check your ChromaDB installation.
+2025-04-11 23:32:51,545 - __main__ - CRITICAL - Fatal error: Could not initialize vector database. Please check your ChromaDB installation.
+2025-04-11 23:33:11,211 - __main__ - ERROR - Failed to initialize vector store: [91mYou are using a deprecated configuration of Chroma.
+
+[94mIf you do not have data you wish to migrate, you only need to change how you construct
+your Chroma client. Please see the "New Clients" section of https://docs.trychroma.com/deployment/migration.
+________________________________________________________________________________________________
+
+If you do have data you wish to migrate, we have a migration tool you can use in order to
+migrate your data to the new Chroma architecture.
+Please `pip install chroma-migrate` and run `chroma-migrate` to migrate your data and then
+change how you construct your Chroma client.
+
+See https://docs.trychroma.com/deployment/migration for more information or join our discord at https://discord.gg/MMeYNTmh3x for help![0m
+2025-04-11 23:33:11,212 - __main__ - CRITICAL - Failed to initialize MCP Agent: Could not initialize vector database. Please check your ChromaDB installation.
+2025-04-11 23:33:11,212 - __main__ - CRITICAL - Fatal error: Could not initialize vector database. Please check your ChromaDB installation.
+2025-04-11 23:33:33,708 - __main__ - ERROR - Failed to initialize vector store: [91mYou are using a deprecated configuration of Chroma.
+
+[94mIf you do not have data you wish to migrate, you only need to change how you construct
+your Chroma client. Please see the "New Clients" section of https://docs.trychroma.com/deployment/migration.
+________________________________________________________________________________________________
+
+If you do have data you wish to migrate, we have a migration tool you can use in order to
+migrate your data to the new Chroma architecture.
+Please `pip install chroma-migrate` and run `chroma-migrate` to migrate your data and then
+change how you construct your Chroma client.
+
+See https://docs.trychroma.com/deployment/migration for more information or join our discord at https://discord.gg/MMeYNTmh3x for help![0m
+2025-04-11 23:33:33,708 - __main__ - CRITICAL - Failed to initialize MCP Agent: Could not initialize vector database. Please check your ChromaDB installation.
+2025-04-11 23:33:33,709 - __main__ - CRITICAL - Fatal error: Could not initialize vector database. Please check your ChromaDB installation.
+2025-04-11 23:33:51,226 - __main__ - ERROR - Failed to initialize vector store: [91mYou are using a deprecated configuration of Chroma.
+
+[94mIf you do not have data you wish to migrate, you only need to change how you construct
+your Chroma client. Please see the "New Clients" section of https://docs.trychroma.com/deployment/migration.
+________________________________________________________________________________________________
+
+If you do have data you wish to migrate, we have a migration tool you can use in order to
+migrate your data to the new Chroma architecture.
+Please `pip install chroma-migrate` and run `chroma-migrate` to migrate your data and then
+change how you construct your Chroma client.
+
+See https://docs.trychroma.com/deployment/migration for more information or join our discord at https://discord.gg/MMeYNTmh3x for help![0m
+2025-04-11 23:33:51,227 - __main__ - CRITICAL - Failed to initialize MCP Agent: Could not initialize vector database. Please check your ChromaDB installation.
+2025-04-11 23:33:51,227 - __main__ - CRITICAL - Fatal error: Could not initialize vector database. Please check your ChromaDB installation.
+2025-04-11 23:34:35,975 - __main__ - ERROR - Failed to initialize vector store: [91mYou are using a deprecated configuration of Chroma.
+
+[94mIf you do not have data you wish to migrate, you only need to change how you construct
+your Chroma client. Please see the "New Clients" section of https://docs.trychroma.com/deployment/migration.
+________________________________________________________________________________________________
+
+If you do have data you wish to migrate, we have a migration tool you can use in order to
+migrate your data to the new Chroma architecture.
+Please `pip install chroma-migrate` and run `chroma-migrate` to migrate your data and then
+change how you construct your Chroma client.
+
+See https://docs.trychroma.com/deployment/migration for more information or join our discord at https://discord.gg/MMeYNTmh3x for help![0m
+2025-04-11 23:34:35,977 - __main__ - CRITICAL - Failed to initialize MCP Agent: Could not initialize vector database. Please check your ChromaDB installation.
+2025-04-11 23:34:35,977 - __main__ - CRITICAL - Fatal error: Could not initialize vector database. Please check your ChromaDB installation.
+2025-04-11 23:34:49,153 - __main__ - ERROR - Failed to initialize vector store: [91mYou are using a deprecated configuration of Chroma.
+
+[94mIf you do not have data you wish to migrate, you only need to change how you construct
+your Chroma client. Please see the "New Clients" section of https://docs.trychroma.com/deployment/migration.
+________________________________________________________________________________________________
+
+If you do have data you wish to migrate, we have a migration tool you can use in order to
+migrate your data to the new Chroma architecture.
+Please `pip install chroma-migrate` and run `chroma-migrate` to migrate your data and then
+change how you construct your Chroma client.
+
+See https://docs.trychroma.com/deployment/migration for more information or join our discord at https://discord.gg/MMeYNTmh3x for help![0m
+2025-04-11 23:34:49,154 - __main__ - CRITICAL - Failed to initialize MCP Agent: Could not initialize vector database. Please check your ChromaDB installation.
+2025-04-11 23:34:49,154 - __main__ - CRITICAL - Fatal error: Could not initialize vector database. Please check your ChromaDB installation.
+2025-04-11 23:35:05,709 - __main__ - ERROR - Failed to initialize vector store: [91mYou are using a deprecated configuration of Chroma.
+
+[94mIf you do not have data you wish to migrate, you only need to change how you construct
+your Chroma client. Please see the "New Clients" section of https://docs.trychroma.com/deployment/migration.
+________________________________________________________________________________________________
+
+If you do have data you wish to migrate, we have a migration tool you can use in order to
+migrate your data to the new Chroma architecture.
+Please `pip install chroma-migrate` and run `chroma-migrate` to migrate your data and then
+change how you construct your Chroma client.
+
+See https://docs.trychroma.com/deployment/migration for more information or join our discord at https://discord.gg/MMeYNTmh3x for help![0m
+2025-04-11 23:35:05,710 - __main__ - CRITICAL - Failed to initialize MCP Agent: Could not initialize vector database. Please check your ChromaDB installation.
+2025-04-11 23:35:05,710 - __main__ - CRITICAL - Fatal error: Could not initialize vector database. Please check your ChromaDB installation.
+2025-04-11 23:36:24,181 - __main__ - ERROR - Failed to initialize vector store: [91mYou are using a deprecated configuration of Chroma.
+
+[94mIf you do not have data you wish to migrate, you only need to change how you construct
+your Chroma client. Please see the "New Clients" section of https://docs.trychroma.com/deployment/migration.
+________________________________________________________________________________________________
+
+If you do have data you wish to migrate, we have a migration tool you can use in order to
+migrate your data to the new Chroma architecture.
+Please `pip install chroma-migrate` and run `chroma-migrate` to migrate your data and then
+change how you construct your Chroma client.
+
+See https://docs.trychroma.com/deployment/migration for more information or join our discord at https://discord.gg/MMeYNTmh3x for help![0m
+2025-04-11 23:36:24,182 - __main__ - CRITICAL - Failed to initialize MCP Agent: Could not initialize vector database. Please check your ChromaDB installation.
+2025-04-11 23:36:24,182 - __main__ - CRITICAL - Fatal error: Could not initialize vector database. Please check your ChromaDB installation.
+2025-04-11 23:36:38,980 - __main__ - ERROR - Failed to initialize vector store: [91mYou are using a deprecated configuration of Chroma.
+
+[94mIf you do not have data you wish to migrate, you only need to change how you construct
+your Chroma client. Please see the "New Clients" section of https://docs.trychroma.com/deployment/migration.
+________________________________________________________________________________________________
+
+If you do have data you wish to migrate, we have a migration tool you can use in order to
+migrate your data to the new Chroma architecture.
+Please `pip install chroma-migrate` and run `chroma-migrate` to migrate your data and then
+change how you construct your Chroma client.
+
+See https://docs.trychroma.com/deployment/migration for more information or join our discord at https://discord.gg/MMeYNTmh3x for help![0m
+2025-04-11 23:36:38,981 - __main__ - CRITICAL - Failed to initialize MCP Agent: Could not initialize vector database. Please check your ChromaDB installation.
+2025-04-11 23:36:38,981 - __main__ - CRITICAL - Fatal error: Could not initialize vector database. Please check your ChromaDB installation.
+2025-04-11 23:37:31,382 - __main__ - ERROR - Failed to initialize vector store: [91mYou are using a deprecated configuration of Chroma.
+
+[94mIf you do not have data you wish to migrate, you only need to change how you construct
+your Chroma client. Please see the "New Clients" section of https://docs.trychroma.com/deployment/migration.
+________________________________________________________________________________________________
+
+If you do have data you wish to migrate, we have a migration tool you can use in order to
+migrate your data to the new Chroma architecture.
+Please `pip install chroma-migrate` and run `chroma-migrate` to migrate your data and then
+change how you construct your Chroma client.
+
+See https://docs.trychroma.com/deployment/migration for more information or join our discord at https://discord.gg/MMeYNTmh3x for help![0m
+2025-04-11 23:37:31,382 - __main__ - CRITICAL - Failed to initialize MCP Agent: Could not initialize vector database. Please check your ChromaDB installation.
+2025-04-11 23:37:31,383 - __main__ - CRITICAL - Fatal error: Could not initialize vector database. Please check your ChromaDB installation.
+2025-04-11 23:47:53,078 - __main__ - ERROR - Failed to initialize vector store: [91mYou are using a deprecated configuration of Chroma.
+
+[94mIf you do not have data you wish to migrate, you only need to change how you construct
+your Chroma client. Please see the "New Clients" section of https://docs.trychroma.com/deployment/migration.
+________________________________________________________________________________________________
+
+If you do have data you wish to migrate, we have a migration tool you can use in order to
+migrate your data to the new Chroma architecture.
+Please `pip install chroma-migrate` and run `chroma-migrate` to migrate your data and then
+change how you construct your Chroma client.
+
+See https://docs.trychroma.com/deployment/migration for more information or join our discord at https://discord.gg/MMeYNTmh3x for help![0m
+2025-04-11 23:47:53,080 - __main__ - CRITICAL - Failed to initialize MCP Agent: Could not initialize vector database. Please check your ChromaDB installation.
+2025-04-11 23:47:53,080 - __main__ - CRITICAL - Fatal error: Could not initialize vector database. Please check your ChromaDB installation.
+2025-04-11 23:48:11,583 - __main__ - ERROR - Failed to initialize vector store: [91mYou are using a deprecated configuration of Chroma.
+
+[94mIf you do not have data you wish to migrate, you only need to change how you construct
+your Chroma client. Please see the "New Clients" section of https://docs.trychroma.com/deployment/migration.
+________________________________________________________________________________________________
+
+If you do have data you wish to migrate, we have a migration tool you can use in order to
+migrate your data to the new Chroma architecture.
+Please `pip install chroma-migrate` and run `chroma-migrate` to migrate your data and then
+change how you construct your Chroma client.
+
+See https://docs.trychroma.com/deployment/migration for more information or join our discord at https://discord.gg/MMeYNTmh3x for help![0m
+2025-04-11 23:48:11,583 - __main__ - CRITICAL - Failed to initialize MCP Agent: Could not initialize vector database. Please check your ChromaDB installation.
+2025-04-11 23:48:11,583 - __main__ - CRITICAL - Fatal error: Could not initialize vector database. Please check your ChromaDB installation.
+2025-04-11 23:48:24,081 - __main__ - ERROR - Failed to initialize vector store: [91mYou are using a deprecated configuration of Chroma.
+
+[94mIf you do not have data you wish to migrate, you only need to change how you construct
+your Chroma client. Please see the "New Clients" section of https://docs.trychroma.com/deployment/migration.
+________________________________________________________________________________________________
+
+If you do have data you wish to migrate, we have a migration tool you can use in order to
+migrate your data to the new Chroma architecture.
+Please `pip install chroma-migrate` and run `chroma-migrate` to migrate your data and then
+change how you construct your Chroma client.
+
+See https://docs.trychroma.com/deployment/migration for more information or join our discord at https://discord.gg/MMeYNTmh3x for help![0m
+2025-04-11 23:48:24,082 - __main__ - CRITICAL - Failed to initialize MCP Agent: Could not initialize vector database. Please check your ChromaDB installation.
+2025-04-11 23:48:24,082 - __main__ - CRITICAL - Fatal error: Could not initialize vector database. Please check your ChromaDB installation.
+2025-04-11 23:49:41,637 - __main__ - ERROR - Failed to initialize vector store: [91mYou are using a deprecated configuration of Chroma.
+
+[94mIf you do not have data you wish to migrate, you only need to change how you construct
+your Chroma client. Please see the "New Clients" section of https://docs.trychroma.com/deployment/migration.
+________________________________________________________________________________________________
+
+If you do have data you wish to migrate, we have a migration tool you can use in order to
+migrate your data to the new Chroma architecture.
+Please `pip install chroma-migrate` and run `chroma-migrate` to migrate your data and then
+change how you construct your Chroma client.
+
+See https://docs.trychroma.com/deployment/migration for more information or join our discord at https://discord.gg/MMeYNTmh3x for help![0m
+2025-04-11 23:49:41,637 - __main__ - CRITICAL - Failed to initialize MCP Agent: Could not initialize vector database. Please check your ChromaDB installation.
+2025-04-11 23:49:41,637 - __main__ - CRITICAL - Fatal error: Could not initialize vector database. Please check your ChromaDB installation.
+2025-04-11 23:49:53,862 - __main__ - ERROR - Failed to initialize vector store: [91mYou are using a deprecated configuration of Chroma.
+
+[94mIf you do not have data you wish to migrate, you only need to change how you construct
+your Chroma client. Please see the "New Clients" section of https://docs.trychroma.com/deployment/migration.
+________________________________________________________________________________________________
+
+If you do have data you wish to migrate, we have a migration tool you can use in order to
+migrate your data to the new Chroma architecture.
+Please `pip install chroma-migrate` and run `chroma-migrate` to migrate your data and then
+change how you construct your Chroma client.
+
+See https://docs.trychroma.com/deployment/migration for more information or join our discord at https://discord.gg/MMeYNTmh3x for help![0m
+2025-04-11 23:49:53,863 - __main__ - CRITICAL - Failed to initialize MCP Agent: Could not initialize vector database. Please check your ChromaDB installation.
+2025-04-11 23:49:53,864 - __main__ - CRITICAL - Fatal error: Could not initialize vector database. Please check your ChromaDB installation.
+2025-04-11 23:50:04,932 - __main__ - ERROR - Failed to initialize vector store: [91mYou are using a deprecated configuration of Chroma.
+
+[94mIf you do not have data you wish to migrate, you only need to change how you construct
+your Chroma client. Please see the "New Clients" section of https://docs.trychroma.com/deployment/migration.
+________________________________________________________________________________________________
+
+If you do have data you wish to migrate, we have a migration tool you can use in order to
+migrate your data to the new Chroma architecture.
+Please `pip install chroma-migrate` and run `chroma-migrate` to migrate your data and then
+change how you construct your Chroma client.
+
+See https://docs.trychroma.com/deployment/migration for more information or join our discord at https://discord.gg/MMeYNTmh3x for help![0m
+2025-04-11 23:50:04,933 - __main__ - CRITICAL - Failed to initialize MCP Agent: Could not initialize vector database. Please check your ChromaDB installation.
+2025-04-11 23:50:04,933 - __main__ - CRITICAL - Fatal error: Could not initialize vector database. Please check your ChromaDB installation.
+2025-04-11 23:50:36,928 - __main__ - ERROR - Failed to initialize vector store: [91mYou are using a deprecated configuration of Chroma.
+
+[94mIf you do not have data you wish to migrate, you only need to change how you construct
+your Chroma client. Please see the "New Clients" section of https://docs.trychroma.com/deployment/migration.
+________________________________________________________________________________________________
+
+If you do have data you wish to migrate, we have a migration tool you can use in order to
+migrate your data to the new Chroma architecture.
+Please `pip install chroma-migrate` and run `chroma-migrate` to migrate your data and then
+change how you construct your Chroma client.
+
+See https://docs.trychroma.com/deployment/migration for more information or join our discord at https://discord.gg/MMeYNTmh3x for help![0m
+2025-04-11 23:50:36,929 - __main__ - CRITICAL - Failed to initialize MCP Agent: Could not initialize vector database. Please check your ChromaDB installation.
+2025-04-11 23:50:36,929 - __main__ - CRITICAL - Fatal error: Could not initialize vector database. Please check your ChromaDB installation.
+2025-04-11 23:51:01,026 - __main__ - ERROR - Failed to initialize vector store: [91mYou are using a deprecated configuration of Chroma.
+
+[94mIf you do not have data you wish to migrate, you only need to change how you construct
+your Chroma client. Please see the "New Clients" section of https://docs.trychroma.com/deployment/migration.
+________________________________________________________________________________________________
+
+If you do have data you wish to migrate, we have a migration tool you can use in order to
+migrate your data to the new Chroma architecture.
+Please `pip install chroma-migrate` and run `chroma-migrate` to migrate your data and then
+change how you construct your Chroma client.
+
+See https://docs.trychroma.com/deployment/migration for more information or join our discord at https://discord.gg/MMeYNTmh3x for help![0m
+2025-04-11 23:51:01,027 - __main__ - CRITICAL - Failed to initialize MCP Agent: Could not initialize vector database. Please check your ChromaDB installation.
+2025-04-11 23:51:01,027 - __main__ - CRITICAL - Fatal error: Could not initialize vector database. Please check your ChromaDB installation.
+2025-04-11 23:51:42,815 - __main__ - ERROR - Failed to initialize vector store: [91mYou are using a deprecated configuration of Chroma.
+
+[94mIf you do not have data you wish to migrate, you only need to change how you construct
+your Chroma client. Please see the "New Clients" section of https://docs.trychroma.com/deployment/migration.
+________________________________________________________________________________________________
+
+If you do have data you wish to migrate, we have a migration tool you can use in order to
+migrate your data to the new Chroma architecture.
+Please `pip install chroma-migrate` and run `chroma-migrate` to migrate your data and then
+change how you construct your Chroma client.
+
+See https://docs.trychroma.com/deployment/migration for more information or join our discord at https://discord.gg/MMeYNTmh3x for help![0m
+2025-04-11 23:51:42,817 - __main__ - CRITICAL - Failed to initialize MCP Agent: Could not initialize vector database. Please check your ChromaDB installation.
+2025-04-11 23:51:42,817 - __main__ - CRITICAL - Fatal error: Could not initialize vector database. Please check your ChromaDB installation.
+2025-04-11 23:52:04,112 - __main__ - ERROR - Failed to initialize vector store: [91mYou are using a deprecated configuration of Chroma.
+
+[94mIf you do not have data you wish to migrate, you only need to change how you construct
+your Chroma client. Please see the "New Clients" section of https://docs.trychroma.com/deployment/migration.
+________________________________________________________________________________________________
+
+If you do have data you wish to migrate, we have a migration tool you can use in order to
+migrate your data to the new Chroma architecture.
+Please `pip install chroma-migrate` and run `chroma-migrate` to migrate your data and then
+change how you construct your Chroma client.
+
+See https://docs.trychroma.com/deployment/migration for more information or join our discord at https://discord.gg/MMeYNTmh3x for help![0m
+2025-04-11 23:52:04,113 - __main__ - CRITICAL - Failed to initialize MCP Agent: Could not initialize vector database. Please check your ChromaDB installation.
+2025-04-11 23:52:04,113 - __main__ - CRITICAL - Fatal error: Could not initialize vector database. Please check your ChromaDB installation.
+2025-04-11 23:52:16,671 - __main__ - ERROR - Failed to initialize vector store: [91mYou are using a deprecated configuration of Chroma.
+
+[94mIf you do not have data you wish to migrate, you only need to change how you construct
+your Chroma client. Please see the "New Clients" section of https://docs.trychroma.com/deployment/migration.
+________________________________________________________________________________________________
+
+If you do have data you wish to migrate, we have a migration tool you can use in order to
+migrate your data to the new Chroma architecture.
+Please `pip install chroma-migrate` and run `chroma-migrate` to migrate your data and then
+change how you construct your Chroma client.
+
+See https://docs.trychroma.com/deployment/migration for more information or join our discord at https://discord.gg/MMeYNTmh3x for help![0m
+2025-04-11 23:52:16,672 - __main__ - CRITICAL - Failed to initialize MCP Agent: Could not initialize vector database. Please check your ChromaDB installation.
+2025-04-11 23:52:16,672 - __main__ - CRITICAL - Fatal error: Could not initialize vector database. Please check your ChromaDB installation.
+2025-06-12 11:37:20,397 - __main__ - ERROR - Failed to initialize vector store: [91mYou are using a deprecated configuration of Chroma.
+
+[94mIf you do not have data you wish to migrate, you only need to change how you construct
+your Chroma client. Please see the "New Clients" section of https://docs.trychroma.com/deployment/migration.
+________________________________________________________________________________________________
+
+If you do have data you wish to migrate, we have a migration tool you can use in order to
+migrate your data to the new Chroma architecture.
+Please `pip install chroma-migrate` and run `chroma-migrate` to migrate your data and then
+change how you construct your Chroma client.
+
+See https://docs.trychroma.com/deployment/migration for more information or join our discord at https://discord.gg/MMeYNTmh3x for help![0m
+2025-06-12 11:37:20,399 - __main__ - CRITICAL - Failed to initialize MCP Agent: Could not initialize vector database. Please check your ChromaDB installation.
+2025-06-12 11:37:20,400 - __main__ - CRITICAL - Fatal error: Could not initialize vector database. Please check your ChromaDB installation.
